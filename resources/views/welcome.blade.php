@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
        <!-- Slider Section -->
-       <section id="home" class="slider_section">
+       <section id="home" class="slider_section min-vh-100">
         <div id="customCarousel1" class="carousel " data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">

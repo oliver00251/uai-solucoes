@@ -1,5 +1,5 @@
 <!-- Seção de Depoimentos -->
-<div class="container min-vh-100">
+<div class="container min-vh-100 d-none" >
     <section id="depoimentos" class="depoimentos_section">
         <div class="container">
             <h2 class="section-title text-center">O que dizem sobre meu trabalho</h2>
@@ -155,3 +155,4 @@
         document.querySelector('.depoimentos-container').scrollBy({ left: valor, behavior: 'smooth' });
     }
 </script>
+
