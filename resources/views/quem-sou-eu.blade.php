@@ -5,7 +5,7 @@
             <!-- Imagem de Perfil -->
             <div class="col-lg-6 d-flex justify-content-center">
                 <div class="quem-sou-img">
-                    <img src="{{ asset('storage/images/quem-sou-eu.jpg') }}" alt="Natã Oliveira" class="img-fluid rounded">
+                    <img src="https://arquivos.uairesolve.shop/wp-content/uploads/2025/03/quem-sou-eu.jpg" alt="Natã Oliveira" class="img-fluid rounded">
                 </div>
             </div>
             <!-- Texto sobre você com Slides -->
