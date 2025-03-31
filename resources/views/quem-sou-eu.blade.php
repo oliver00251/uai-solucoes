@@ -8,7 +8,6 @@
                     <img src="{{ asset('images/quem-sou-eu.jpg') }}" alt="Natã Oliveira" class="img-fluid rounded">
                 </div>
             </div>
-
             <!-- Texto sobre você com Slides -->
             <div class="col-lg-6">
                 <div class="quem-sou-texto">
