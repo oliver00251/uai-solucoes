@@ -53,7 +53,7 @@
     padding: 50px 0;
     margin-bottom: 10vh;
     border-radius: 7px;
-    min-width: 90vw !important;
+    min-width: 80vw !important;
 }
 
 .section-title {
